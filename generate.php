@@ -1,3 +1,4 @@
+<?php
 /*Below given function can be used for generating 5,11,16 characters alphanumeric string
 These functions will return the respective characters string described below */
 
